@@ -1,6 +1,6 @@
 # Tidbyt Untappd
 
-Tidbyt Untappd is an applet developed for [Tidbyt](https://tidbyt.com), using Pixlet, an app runtime and UX toolkit.
+Tidbyt Untappd is an applet developed for [Tidbyt](https://tidbyt.com), using Pixlet, an app runtime and UX toolkit and the Untappd API. The applet shows the Untappd logo, along with the last beer the specified user has checked into and the tally of unique beers that user has tried.
 
 Apps developed with Pixlet can be served in a browser, rendered as WebP or
 GIF animations, or pushed to a physical Tidbyt device.
