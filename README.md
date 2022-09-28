@@ -6,8 +6,7 @@ Apps developed with Pixlet can be served in a browser, rendered as WebP or
 GIF animations, or pushed to a physical Tidbyt device.
 
 <img src="docs/img/untappd.gif" alt="tidbytuntappd" width="360" />
-
-![](docs/img/untappd.gif)
+Example image blown up from 64x32
 
 ## Getting started
 
