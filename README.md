@@ -5,6 +5,8 @@ Tidbyt Untappd is an applet developed for [Tidbyt](https://tidbyt.com), using Pi
 Apps developed with Pixlet can be served in a browser, rendered as WebP or
 GIF animations, or pushed to a physical Tidbyt device.
 
+<img src="docs/img/untappd.gif" alt="tidbytuntappd" width="360" />
+
 ![](docs/img/untappd.gif)
 
 ## Getting started
